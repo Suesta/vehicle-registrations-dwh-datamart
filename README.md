@@ -116,4 +116,3 @@ Additional checks (dimension row counts, samples, job execution logs/metrics) ar
 
 **Víctor Suesta Arribas**
 
-```
